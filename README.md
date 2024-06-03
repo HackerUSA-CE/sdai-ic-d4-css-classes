@@ -108,7 +108,7 @@ Now, let's elevate your CSS skills by practicing some class selectors and unders
     }
     ```
 
-    **Recall**: In responsive design, using `vh` (viewport height) helps to have adaptable heights that adjust to different screens.
+    **Recall**: In responsive design, using `vh` (viewport height) helps us have adaptable heights that adjust to different screens.
 
 ### Styling the Footer
 
@@ -155,7 +155,7 @@ Now, let's elevate your CSS skills by practicing some class selectors and unders
 
 🎊 **AWESOME WORK! You just created a beautifully styled header, navigation bar, and sections with hover effects and centered text! 💃🏻🕺🏾** 🎊
 
-While there's more to be done to this page in future activities, you've already learned and done a lot to greatly improve the page's appearance.
+While there's more to be done to this page in future activities, such as creating a properly styled menu, you've already learned a lot and greatly improved the page's appearance. Congratulations!
 
 ---
 

@@ -17,6 +17,10 @@ body {
 }
 
 /* Navigation Link Styles */
+nav ul {
+    list-style: none;
+}
+
 .nav-link {
     color: #fff;
     text-decoration: none;
